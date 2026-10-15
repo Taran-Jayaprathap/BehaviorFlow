@@ -1,0 +1,7 @@
+opencv-python-headless
+numpy
+pandas
+streamlit
+pyreadstat
+pymupdf
+openpyxl

@@ -1,0 +1,730 @@
+{
+  "name": "Weekly Wellbeing Questionnaire (WWQ-16)",
+  "master_image": "master.png",
+  "items": [
+    {
+      "id": "q01",
+      "label": "I felt calm and relaxed this week.",
+      "type": "likert",
+      "options": [
+        {
+          "value": 1,
+          "box": [
+            735,
+            350,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 2,
+          "box": [
+            827,
+            350,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 3,
+          "box": [
+            919,
+            350,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 4,
+          "box": [
+            1011,
+            350,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 5,
+          "box": [
+            1103,
+            350,
+            70,
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q02",
+      "label": "I found it hard to concentrate on my studies.",
+      "type": "likert",
+      "options": [
+        {
+          "value": 1,
+          "box": [
+            735,
+            426,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 2,
+          "box": [
+            827,
+            426,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 3,
+          "box": [
+            919,
+            426,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 4,
+          "box": [
+            1011,
+            426,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 5,
+          "box": [
+            1103,
+            426,
+            70,
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q03",
+      "label": "I had enough energy for daily tasks.",
+      "type": "likert",
+      "options": [
+        {
+          "value": 1,
+          "box": [
+            735,
+            502,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 2,
+          "box": [
+            827,
+            502,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 3,
+          "box": [
+            919,
+            502,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 4,
+          "box": [
+            1011,
+            502,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 5,
+          "box": [
+            1103,
+            502,
+            70,
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q04",
+      "label": "I worried about things I could not control.",
+      "type": "likert",
+      "options": [
+        {
+          "value": 1,
+          "box": [
+            735,
+            578,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 2,
+          "box": [
+            827,
+            578,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 3,
+          "box": [
+            919,
+            578,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 4,
+          "box": [
+            1011,
+            578,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 5,
+          "box": [
+            1103,
+            578,
+            70,
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q05",
+      "label": "I felt connected to people around me.",
+      "type": "likert",
+      "options": [
+        {
+          "value": 1,
+          "box": [
+            735,
+            654,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 2,
+          "box": [
+            827,
+            654,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 3,
+          "box": [
+            919,
+            654,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 4,
+          "box": [
+            1011,
+            654,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 5,
+          "box": [
+            1103,
+            654,
+            70,
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q06",
+      "label": "Small problems made me feel overwhelmed.",
+      "type": "likert",
+      "options": [
+        {
+          "value": 1,
+          "box": [
+            735,
+            730,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 2,
+          "box": [
+            827,
+            730,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 3,
+          "box": [
+            919,
+            730,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 4,
+          "box": [
+            1011,
+            730,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 5,
+          "box": [
+            1103,
+            730,
+            70,
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q07",
+      "label": "I slept well most nights.",
+      "type": "likert",
+      "options": [
+        {
+          "value": 1,
+          "box": [
+            735,
+            806,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 2,
+          "box": [
+            827,
+            806,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 3,
+          "box": [
+            919,
+            806,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 4,
+          "box": [
+            1011,
+            806,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 5,
+          "box": [
+            1103,
+            806,
+            70,
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q08",
+      "label": "I felt confident handling unexpected events.",
+      "type": "likert",
+      "options": [
+        {
+          "value": 1,
+          "box": [
+            735,
+            882,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 2,
+          "box": [
+            827,
+            882,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 3,
+          "box": [
+            919,
+            882,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 4,
+          "box": [
+            1011,
+            882,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 5,
+          "box": [
+            1103,
+            882,
+            70,
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q09",
+      "label": "I avoided tasks because they felt too difficult.",
+      "type": "likert",
+      "options": [
+        {
+          "value": 1,
+          "box": [
+            735,
+            958,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 2,
+          "box": [
+            827,
+            958,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 3,
+          "box": [
+            919,
+            958,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 4,
+          "box": [
+            1011,
+            958,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 5,
+          "box": [
+            1103,
+            958,
+            70,
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "label": "I enjoyed activities I usually like.",
+      "type": "likert",
+      "options": [
+        {
+          "value": 1,
+          "box": [
+            735,
+            1034,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 2,
+          "box": [
+            827,
+            1034,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 3,
+          "box": [
+            919,
+            1034,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 4,
+          "box": [
+            1011,
+            1034,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 5,
+          "box": [
+            1103,
+            1034,
+            70,
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "label": "I felt tense or on edge.",
+      "type": "likert",
+      "options": [
+        {
+          "value": 1,
+          "box": [
+            735,
+            1110,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 2,
+          "box": [
+            827,
+            1110,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 3,
+          "box": [
+            919,
+            1110,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 4,
+          "box": [
+            1011,
+            1110,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 5,
+          "box": [
+            1103,
+            1110,
+            70,
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "label": "I was satisfied with how I spent my time.",
+      "type": "likert",
+      "options": [
+        {
+          "value": 1,
+          "box": [
+            735,
+            1186,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 2,
+          "box": [
+            827,
+            1186,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 3,
+          "box": [
+            919,
+            1186,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 4,
+          "box": [
+            1011,
+            1186,
+            70,
+            60
+          ]
+        },
+        {
+          "value": 5,
+          "box": [
+            1103,
+            1186,
+            70,
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "label": "I attended at least one social event this week.",
+      "type": "true_false",
+      "options": [
+        {
+          "value": "T",
+          "box": [
+            735,
+            1362,
+            70,
+            60
+          ]
+        },
+        {
+          "value": "F",
+          "box": [
+            827,
+            1362,
+            70,
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "label": "I skipped a meal because I was too busy.",
+      "type": "true_false",
+      "options": [
+        {
+          "value": "T",
+          "box": [
+            735,
+            1438,
+            70,
+            60
+          ]
+        },
+        {
+          "value": "F",
+          "box": [
+            827,
+            1438,
+            70,
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "label": "I exercised for 30 minutes or more on most days.",
+      "type": "true_false",
+      "options": [
+        {
+          "value": "T",
+          "box": [
+            735,
+            1514,
+            70,
+            60
+          ]
+        },
+        {
+          "value": "F",
+          "box": [
+            827,
+            1514,
+            70,
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "label": "I used a phone or computer within an hour of bedtime.",
+      "type": "true_false",
+      "options": [
+        {
+          "value": "T",
+          "box": [
+            735,
+            1590,
+            70,
+            60
+          ]
+        },
+        {
+          "value": "F",
+          "box": [
+            827,
+            1590,
+            70,
+            60
+          ]
+        }
+      ]
+    }
+  ]
+}

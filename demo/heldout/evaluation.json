@@ -1,0 +1,26 @@
+{
+  "sheets": 100,
+  "sheets_failed_alignment": [],
+  "answers": 1600,
+  "review_rate": 0.0894,
+  "auto_accepted": 1457,
+  "auto_accuracy": 1.0,
+  "silent_errors": 0,
+  "accuracy_after_review": 1.0,
+  "mean_seconds_per_sheet": 0.49,
+  "messy_answers": 187,
+  "messy_flagged": 118,
+  "messy_needing_review": 118,
+  "by_capture": {
+    "phone": {
+      "answers": 1152,
+      "review_rate": 0.092,
+      "silent_errors": 0
+    },
+    "scan": {
+      "answers": 448,
+      "review_rate": 0.0826,
+      "silent_errors": 0
+    }
+  }
+}

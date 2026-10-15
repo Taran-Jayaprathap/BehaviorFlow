@@ -1,0 +1,12 @@
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = true
+address = "127.0.0.1"
+
+[theme]
+primaryColor = "#2E7D6B"
+
+[client]
+toolbarMode = "viewer"
