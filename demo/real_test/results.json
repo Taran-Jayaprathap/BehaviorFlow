@@ -1,0 +1,1538 @@
+{
+ "summary": {
+  "tuning (是/否 items 21-60)": {
+   "answers": 40,
+   "correct": 30,
+   "review": 10,
+   "WRONG": 0,
+   "review_rate": 0.25
+  },
+  "test (是/否 items 61-100)": {
+   "answers": 40,
+   "correct": 28,
+   "review": 12,
+   "WRONG": 0,
+   "review_rate": 0.3
+  },
+  "test (A-D items 1-30)": {
+   "answers": 30,
+   "correct": 17,
+   "review": 13,
+   "WRONG": 0,
+   "review_rate": 0.433
+  },
+  "all": {
+   "answers": 110,
+   "correct": 75,
+   "review": 35,
+   "WRONG": 0,
+   "review_rate": 0.318
+  },
+  "handwritten letters (not circled)": {
+   "answers": 11,
+   "correct": 0,
+   "review": 11,
+   "WRONG": 0,
+   "review_rate": 1.0
+  },
+  "ambiguous to a human": {
+   "answers": 11,
+   "correct": 7,
+   "review": 4,
+   "WRONG": 0,
+   "review_rate": 0.364
+  }
+ },
+ "answers": [
+  {
+   "item": "yn21",
+   "split": "tuning",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 1.0,
+    "否": 0.0
+   }
+  },
+  {
+   "item": "yn22",
+   "split": "tuning",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.67,
+    "否": 0.11
+   }
+  },
+  {
+   "item": "yn23",
+   "split": "tuning",
+   "read": "否",
+   "status": "uncertain",
+   "truth": "否",
+   "note": "",
+   "outcome": "review",
+   "coverage": {
+    "是": 0.44,
+    "否": 0.83
+   }
+  },
+  {
+   "item": "yn24",
+   "split": "tuning",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.97,
+    "否": 0.28
+   }
+  },
+  {
+   "item": "yn25",
+   "split": "tuning",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.75,
+    "否": 0.0
+   }
+  },
+  {
+   "item": "yn26",
+   "split": "tuning",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.47,
+    "否": 0.19
+   }
+  },
+  {
+   "item": "yn27",
+   "split": "tuning",
+   "read": "否",
+   "status": "ok",
+   "truth": "否",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.08,
+    "否": 1.0
+   }
+  },
+  {
+   "item": "yn28",
+   "split": "tuning",
+   "read": "是",
+   "status": "faint",
+   "truth": "是",
+   "note": "",
+   "outcome": "review",
+   "coverage": {
+    "是": 0.42,
+    "否": 0.17
+   }
+  },
+  {
+   "item": "yn29",
+   "split": "tuning",
+   "read": "是",
+   "status": "uncertain",
+   "truth": "是",
+   "note": "",
+   "outcome": "review",
+   "coverage": {
+    "是": 0.61,
+    "否": 0.36
+   }
+  },
+  {
+   "item": "yn30",
+   "split": "tuning",
+   "read": "否",
+   "status": "uncertain",
+   "truth": "否",
+   "note": "",
+   "outcome": "review",
+   "coverage": {
+    "是": 0.42,
+    "否": 0.75
+   }
+  },
+  {
+   "item": "yn31",
+   "split": "tuning",
+   "read": "是",
+   "status": "uncertain",
+   "truth": "是",
+   "note": "",
+   "outcome": "review",
+   "coverage": {
+    "是": 0.47,
+    "否": 0.39
+   }
+  },
+  {
+   "item": "yn32",
+   "split": "tuning",
+   "read": "是",
+   "status": "faint",
+   "truth": "是",
+   "note": "",
+   "outcome": "review",
+   "coverage": {
+    "是": 0.36,
+    "否": 0.25
+   }
+  },
+  {
+   "item": "yn33",
+   "split": "tuning",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.83,
+    "否": 0.33
+   }
+  },
+  {
+   "item": "yn34",
+   "split": "tuning",
+   "read": "否",
+   "status": "ok",
+   "truth": "否",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.33,
+    "否": 0.97
+   }
+  },
+  {
+   "item": "yn35",
+   "split": "tuning",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 1.0,
+    "否": 0.22
+   }
+  },
+  {
+   "item": "yn36",
+   "split": "tuning",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.75,
+    "否": 0.0
+   }
+  },
+  {
+   "item": "yn37",
+   "split": "tuning",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.56,
+    "否": 0.14
+   }
+  },
+  {
+   "item": "yn38",
+   "split": "tuning",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.81,
+    "否": 0.11
+   }
+  },
+  {
+   "item": "yn39",
+   "split": "tuning",
+   "read": "否",
+   "status": "ok",
+   "truth": "否",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.19,
+    "否": 1.0
+   }
+  },
+  {
+   "item": "yn40",
+   "split": "tuning",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.56,
+    "否": 0.22
+   }
+  },
+  {
+   "item": "yn81",
+   "split": "test",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.92,
+    "否": 0.22
+   }
+  },
+  {
+   "item": "yn82",
+   "split": "test",
+   "read": "否",
+   "status": "ok",
+   "truth": "否",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.28,
+    "否": 1.0
+   }
+  },
+  {
+   "item": "yn83",
+   "split": "test",
+   "read": null,
+   "status": "multiple",
+   "truth": "?",
+   "note": "ambiguous: answer circled",
+   "outcome": "review",
+   "coverage": {
+    "是": 0.56,
+    "否": 0.86
+   }
+  },
+  {
+   "item": "yn84",
+   "split": "test",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.72,
+    "否": 0.31
+   }
+  },
+  {
+   "item": "yn85",
+   "split": "test",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.67,
+    "否": 0.14
+   }
+  },
+  {
+   "item": "yn86",
+   "split": "test",
+   "read": "是",
+   "status": "uncertain",
+   "truth": "是",
+   "note": "",
+   "outcome": "review",
+   "coverage": {
+    "是": 0.78,
+    "否": 0.36
+   }
+  },
+  {
+   "item": "yn87",
+   "split": "test",
+   "read": null,
+   "status": "multiple",
+   "truth": "否",
+   "note": "",
+   "outcome": "review",
+   "coverage": {
+    "是": 0.5,
+    "否": 0.86
+   }
+  },
+  {
+   "item": "yn88",
+   "split": "test",
+   "read": "否",
+   "status": "uncertain",
+   "truth": "否",
+   "note": "",
+   "outcome": "review",
+   "coverage": {
+    "是": 0.42,
+    "否": 1.0
+   }
+  },
+  {
+   "item": "yn89",
+   "split": "test",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.64,
+    "否": 0.22
+   }
+  },
+  {
+   "item": "yn90",
+   "split": "test",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.89,
+    "否": 0.06
+   }
+  },
+  {
+   "item": "yn91",
+   "split": "test",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.61,
+    "否": 0.19
+   }
+  },
+  {
+   "item": "yn92",
+   "split": "test",
+   "read": "否",
+   "status": "ok",
+   "truth": "否",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.17,
+    "否": 0.92
+   }
+  },
+  {
+   "item": "yn93",
+   "split": "test",
+   "read": "否",
+   "status": "ok",
+   "truth": "否",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.03,
+    "否": 0.67
+   }
+  },
+  {
+   "item": "yn94",
+   "split": "test",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.61,
+    "否": 0.19
+   }
+  },
+  {
+   "item": "yn95",
+   "split": "test",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.86,
+    "否": 0.11
+   }
+  },
+  {
+   "item": "yn96",
+   "split": "test",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.97,
+    "否": 0.14
+   }
+  },
+  {
+   "item": "yn97",
+   "split": "test",
+   "read": "否",
+   "status": "ok",
+   "truth": "否",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.28,
+    "否": 1.0
+   }
+  },
+  {
+   "item": "yn98",
+   "split": "test",
+   "read": null,
+   "status": "blank",
+   "truth": "是",
+   "note": "",
+   "outcome": "review",
+   "coverage": {
+    "是": 0.31,
+    "否": 0.33
+   }
+  },
+  {
+   "item": "yn99",
+   "split": "test",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.64,
+    "否": 0.11
+   }
+  },
+  {
+   "item": "yn100",
+   "split": "test",
+   "read": "否",
+   "status": "ok",
+   "truth": "否",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.14,
+    "否": 0.61
+   }
+  },
+  {
+   "item": "yn41",
+   "split": "tuning",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.81,
+    "否": 0.0
+   }
+  },
+  {
+   "item": "yn42",
+   "split": "tuning",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 1.0,
+    "否": 0.14
+   }
+  },
+  {
+   "item": "yn43",
+   "split": "tuning",
+   "read": "否",
+   "status": "uncertain",
+   "truth": "否",
+   "note": "",
+   "outcome": "review",
+   "coverage": {
+    "是": 0.42,
+    "否": 0.78
+   }
+  },
+  {
+   "item": "yn44",
+   "split": "tuning",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.94,
+    "否": 0.28
+   }
+  },
+  {
+   "item": "yn45",
+   "split": "tuning",
+   "read": "是",
+   "status": "faint",
+   "truth": "是",
+   "note": "ambiguous: circle drawn beside the option",
+   "outcome": "review",
+   "coverage": {
+    "是": 0.44,
+    "否": 0.17
+   }
+  },
+  {
+   "item": "yn46",
+   "split": "tuning",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "ambiguous: one tall ellipse covers items 46-47",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.5,
+    "否": 0.0
+   }
+  },
+  {
+   "item": "yn47",
+   "split": "tuning",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "ambiguous: one tall ellipse covers items 46-47",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.53,
+    "否": 0.0
+   }
+  },
+  {
+   "item": "yn48",
+   "split": "tuning",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "ambiguous: one tall ellipse covers items 48-49",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.89,
+    "否": 0.06
+   }
+  },
+  {
+   "item": "yn49",
+   "split": "tuning",
+   "read": null,
+   "status": "multiple",
+   "truth": "是",
+   "note": "ambiguous: tall ellipses in both columns",
+   "outcome": "review",
+   "coverage": {
+    "是": 0.75,
+    "否": 0.53
+   }
+  },
+  {
+   "item": "yn50",
+   "split": "tuning",
+   "read": "否",
+   "status": "ok",
+   "truth": "否",
+   "note": "ambiguous: one tall ellipse covers items 49-50",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.11,
+    "否": 0.69
+   }
+  },
+  {
+   "item": "yn51",
+   "split": "tuning",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.47,
+    "否": 0.25
+   }
+  },
+  {
+   "item": "yn52",
+   "split": "tuning",
+   "read": null,
+   "status": "blank",
+   "truth": "否",
+   "note": "ambiguous: circle drawn beside the option",
+   "outcome": "review",
+   "coverage": {
+    "是": 0.31,
+    "否": 0.22
+   }
+  },
+  {
+   "item": "yn53",
+   "split": "tuning",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.72,
+    "否": 0.22
+   }
+  },
+  {
+   "item": "yn54",
+   "split": "tuning",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 1.0,
+    "否": 0.0
+   }
+  },
+  {
+   "item": "yn55",
+   "split": "tuning",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.75,
+    "否": 0.25
+   }
+  },
+  {
+   "item": "yn56",
+   "split": "tuning",
+   "read": "否",
+   "status": "ok",
+   "truth": "否",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.19,
+    "否": 1.0
+   }
+  },
+  {
+   "item": "yn57",
+   "split": "tuning",
+   "read": "否",
+   "status": "ok",
+   "truth": "否",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.22,
+    "否": 1.0
+   }
+  },
+  {
+   "item": "yn58",
+   "split": "tuning",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.78,
+    "否": 0.31
+   }
+  },
+  {
+   "item": "yn59",
+   "split": "tuning",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.83,
+    "否": 0.17
+   }
+  },
+  {
+   "item": "yn60",
+   "split": "tuning",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.94,
+    "否": 0.11
+   }
+  },
+  {
+   "item": "yn61",
+   "split": "test",
+   "read": "否",
+   "status": "ok",
+   "truth": "否",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.0,
+    "否": 1.0
+   }
+  },
+  {
+   "item": "yn62",
+   "split": "test",
+   "read": "否",
+   "status": "ok",
+   "truth": "否",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.0,
+    "否": 0.86
+   }
+  },
+  {
+   "item": "yn63",
+   "split": "test",
+   "read": "否",
+   "status": "ok",
+   "truth": "否",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.08,
+    "否": 0.72
+   }
+  },
+  {
+   "item": "yn64",
+   "split": "test",
+   "read": "否",
+   "status": "ok",
+   "truth": "否",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.33,
+    "否": 0.89
+   }
+  },
+  {
+   "item": "yn65",
+   "split": "test",
+   "read": "是",
+   "status": "uncertain",
+   "truth": "是",
+   "note": "",
+   "outcome": "review",
+   "coverage": {
+    "是": 0.75,
+    "否": 0.39
+   }
+  },
+  {
+   "item": "yn66",
+   "split": "test",
+   "read": "是",
+   "status": "uncertain",
+   "truth": "是",
+   "note": "",
+   "outcome": "review",
+   "coverage": {
+    "是": 0.81,
+    "否": 0.36
+   }
+  },
+  {
+   "item": "yn67",
+   "split": "test",
+   "read": "否",
+   "status": "uncertain",
+   "truth": "否",
+   "note": "",
+   "outcome": "review",
+   "coverage": {
+    "是": 0.39,
+    "否": 1.0
+   }
+  },
+  {
+   "item": "yn68",
+   "split": "test",
+   "read": null,
+   "status": "multiple",
+   "truth": "是",
+   "note": "",
+   "outcome": "review",
+   "coverage": {
+    "是": 0.53,
+    "否": 0.5
+   }
+  },
+  {
+   "item": "yn69",
+   "split": "test",
+   "read": "否",
+   "status": "uncertain",
+   "truth": "否",
+   "note": "",
+   "outcome": "review",
+   "coverage": {
+    "是": 0.42,
+    "否": 0.58
+   }
+  },
+  {
+   "item": "yn70",
+   "split": "test",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.97,
+    "否": 0.31
+   }
+  },
+  {
+   "item": "yn71",
+   "split": "test",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.86,
+    "否": 0.19
+   }
+  },
+  {
+   "item": "yn72",
+   "split": "test",
+   "read": "否",
+   "status": "ok",
+   "truth": "否",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.25,
+    "否": 0.61
+   }
+  },
+  {
+   "item": "yn73",
+   "split": "test",
+   "read": "否",
+   "status": "ok",
+   "truth": "否",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.0,
+    "否": 0.83
+   }
+  },
+  {
+   "item": "yn74",
+   "split": "test",
+   "read": "否",
+   "status": "ok",
+   "truth": "否",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.0,
+    "否": 0.83
+   }
+  },
+  {
+   "item": "yn75",
+   "split": "test",
+   "read": "否",
+   "status": "ok",
+   "truth": "否",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.11,
+    "否": 0.61
+   }
+  },
+  {
+   "item": "yn76",
+   "split": "test",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.97,
+    "否": 0.28
+   }
+  },
+  {
+   "item": "yn77",
+   "split": "test",
+   "read": "否",
+   "status": "uncertain",
+   "truth": "否",
+   "note": "",
+   "outcome": "review",
+   "coverage": {
+    "是": 0.36,
+    "否": 0.69
+   }
+  },
+  {
+   "item": "yn78",
+   "split": "test",
+   "read": "是",
+   "status": "ok",
+   "truth": "是",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.83,
+    "否": 0.14
+   }
+  },
+  {
+   "item": "yn79",
+   "split": "test",
+   "read": "否",
+   "status": "faint",
+   "truth": "否",
+   "note": "",
+   "outcome": "review",
+   "coverage": {
+    "是": 0.22,
+    "否": 0.42
+   }
+  },
+  {
+   "item": "yn80",
+   "split": "test",
+   "read": "否",
+   "status": "ok",
+   "truth": "否",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "是": 0.06,
+    "否": 1.0
+   }
+  },
+  {
+   "item": "mc1",
+   "split": "test",
+   "read": null,
+   "status": "blank",
+   "truth": "C",
+   "note": "letter handwritten in the brackets",
+   "outcome": "review",
+   "coverage": {
+    "A": 0.03,
+    "B": 0.03,
+    "C": 0.03,
+    "D": 0.03
+   }
+  },
+  {
+   "item": "mc2",
+   "split": "test",
+   "read": null,
+   "status": "blank",
+   "truth": "A",
+   "note": "letter handwritten in the brackets",
+   "outcome": "review",
+   "coverage": {
+    "A": 0.03,
+    "B": 0.03,
+    "C": 0.03,
+    "D": 0.03
+   }
+  },
+  {
+   "item": "mc3",
+   "split": "test",
+   "read": null,
+   "status": "blank",
+   "truth": "C",
+   "note": "letter handwritten in the brackets",
+   "outcome": "review",
+   "coverage": {
+    "A": 0.03,
+    "B": 0.03,
+    "C": 0.03,
+    "D": 0.03
+   }
+  },
+  {
+   "item": "mc4",
+   "split": "test",
+   "read": null,
+   "status": "blank",
+   "truth": "D",
+   "note": "letter handwritten in the brackets",
+   "outcome": "review",
+   "coverage": {
+    "A": 0.03,
+    "B": 0.03,
+    "C": 0.03,
+    "D": 0.03
+   }
+  },
+  {
+   "item": "mc5",
+   "split": "test",
+   "read": "B",
+   "status": "ok",
+   "truth": "B",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "A": 0.03,
+    "B": 1.0,
+    "C": 0.03,
+    "D": 0.03
+   }
+  },
+  {
+   "item": "mc6",
+   "split": "test",
+   "read": "B",
+   "status": "ok",
+   "truth": "B",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "A": 0.03,
+    "B": 0.94,
+    "C": 0.03,
+    "D": 0.03
+   }
+  },
+  {
+   "item": "mc7",
+   "split": "test",
+   "read": "A",
+   "status": "ok",
+   "truth": "A",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "A": 0.94,
+    "B": 0.03,
+    "C": 0.03,
+    "D": 0.03
+   }
+  },
+  {
+   "item": "mc8",
+   "split": "test",
+   "read": "B",
+   "status": "ok",
+   "truth": "B",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "A": 0.0,
+    "B": 0.5,
+    "C": 0.03,
+    "D": 0.03
+   }
+  },
+  {
+   "item": "mc9",
+   "split": "test",
+   "read": "B",
+   "status": "faint",
+   "truth": "B",
+   "note": "",
+   "outcome": "review",
+   "coverage": {
+    "A": 0.03,
+    "B": 0.42,
+    "C": 0.03,
+    "D": 0.03
+   }
+  },
+  {
+   "item": "mc10",
+   "split": "test",
+   "read": "A",
+   "status": "ok",
+   "truth": "A",
+   "note": "ambiguous: scribble from the circle runs into item 11",
+   "outcome": "correct",
+   "coverage": {
+    "A": 0.89,
+    "B": 0.03,
+    "C": 0.03,
+    "D": 0.03
+   }
+  },
+  {
+   "item": "mc11",
+   "split": "test",
+   "read": "A",
+   "status": "ok",
+   "truth": "A",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "A": 0.53,
+    "B": 0.03,
+    "C": 0.03,
+    "D": 0.03
+   }
+  },
+  {
+   "item": "mc12",
+   "split": "test",
+   "read": "B",
+   "status": "ok",
+   "truth": "B",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "A": 0.03,
+    "B": 0.47,
+    "C": 0.03,
+    "D": 0.03
+   }
+  },
+  {
+   "item": "mc13",
+   "split": "test",
+   "read": null,
+   "status": "blank",
+   "truth": "D",
+   "note": "letter handwritten in the brackets",
+   "outcome": "review",
+   "coverage": {
+    "A": 0.03,
+    "B": 0.03,
+    "C": 0.03,
+    "D": 0.03
+   }
+  },
+  {
+   "item": "mc14",
+   "split": "test",
+   "read": null,
+   "status": "blank",
+   "truth": "A",
+   "note": "letter handwritten in the brackets",
+   "outcome": "review",
+   "coverage": {
+    "A": 0.03,
+    "B": 0.03,
+    "C": 0.03,
+    "D": 0.03
+   }
+  },
+  {
+   "item": "mc15",
+   "split": "test",
+   "read": null,
+   "status": "blank",
+   "truth": "A",
+   "note": "letter handwritten in the brackets",
+   "outcome": "review",
+   "coverage": {
+    "A": 0.03,
+    "B": 0.03,
+    "C": 0.03,
+    "D": 0.03
+   }
+  },
+  {
+   "item": "mc16",
+   "split": "test",
+   "read": null,
+   "status": "blank",
+   "truth": "D",
+   "note": "letter handwritten in the brackets",
+   "outcome": "review",
+   "coverage": {
+    "A": 0.03,
+    "B": 0.03,
+    "C": 0.03,
+    "D": 0.03
+   }
+  },
+  {
+   "item": "mc17",
+   "split": "test",
+   "read": "B",
+   "status": "ok",
+   "truth": "B",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "A": 0.03,
+    "B": 0.78,
+    "C": 0.03,
+    "D": 0.03
+   }
+  },
+  {
+   "item": "mc18",
+   "split": "test",
+   "read": "A",
+   "status": "ok",
+   "truth": "A",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "A": 0.61,
+    "B": 0.03,
+    "C": 0.03,
+    "D": 0.03
+   }
+  },
+  {
+   "item": "mc19",
+   "split": "test",
+   "read": "B",
+   "status": "ok",
+   "truth": "B",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "A": 0.03,
+    "B": 0.89,
+    "C": 0.03,
+    "D": 0.03
+   }
+  },
+  {
+   "item": "mc20",
+   "split": "test",
+   "read": "C",
+   "status": "ok",
+   "truth": "C",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "A": 0.03,
+    "B": 0.03,
+    "C": 0.64,
+    "D": 0.03
+   }
+  },
+  {
+   "item": "mc21",
+   "split": "test",
+   "read": "A",
+   "status": "ok",
+   "truth": "A",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "A": 0.47,
+    "B": 0.03,
+    "C": 0.03,
+    "D": 0.03
+   }
+  },
+  {
+   "item": "mc22",
+   "split": "test",
+   "read": "B",
+   "status": "ok",
+   "truth": "B",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "A": 0.03,
+    "B": 0.56,
+    "C": 0.03,
+    "D": 0.03
+   }
+  },
+  {
+   "item": "mc23",
+   "split": "test",
+   "read": "C",
+   "status": "ok",
+   "truth": "C",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "A": 0.03,
+    "B": 0.0,
+    "C": 1.0,
+    "D": 0.03
+   }
+  },
+  {
+   "item": "mc24",
+   "split": "test",
+   "read": null,
+   "status": "blank",
+   "truth": "D",
+   "note": "letter handwritten in the brackets",
+   "outcome": "review",
+   "coverage": {
+    "A": 0.03,
+    "B": 0.03,
+    "C": 0.03,
+    "D": 0.03
+   }
+  },
+  {
+   "item": "mc25",
+   "split": "test",
+   "read": null,
+   "status": "blank",
+   "truth": "A",
+   "note": "letter handwritten in the brackets",
+   "outcome": "review",
+   "coverage": {
+    "A": 0.03,
+    "B": 0.03,
+    "C": 0.03,
+    "D": 0.03
+   }
+  },
+  {
+   "item": "mc26",
+   "split": "test",
+   "read": null,
+   "status": "blank",
+   "truth": "B",
+   "note": "letter handwritten in the brackets",
+   "outcome": "review",
+   "coverage": {
+    "A": 0.03,
+    "B": 0.03,
+    "C": 0.03,
+    "D": 0.03
+   }
+  },
+  {
+   "item": "mc27",
+   "split": "test",
+   "read": "C",
+   "status": "ok",
+   "truth": "C",
+   "note": "ambiguous: one tall ellipse covers items 27-28",
+   "outcome": "correct",
+   "coverage": {
+    "A": 0.03,
+    "B": 0.03,
+    "C": 0.81,
+    "D": 0.03
+   }
+  },
+  {
+   "item": "mc28",
+   "split": "test",
+   "read": "C",
+   "status": "ok",
+   "truth": "C",
+   "note": "ambiguous: one tall ellipse covers items 27-28",
+   "outcome": "correct",
+   "coverage": {
+    "A": 0.03,
+    "B": 0.03,
+    "C": 0.72,
+    "D": 0.03
+   }
+  },
+  {
+   "item": "mc29",
+   "split": "test",
+   "read": null,
+   "status": "blank",
+   "truth": "A",
+   "note": "",
+   "outcome": "review",
+   "coverage": {
+    "A": 0.33,
+    "B": 0.03,
+    "C": 0.03,
+    "D": 0.03
+   }
+  },
+  {
+   "item": "mc30",
+   "split": "test",
+   "read": "A",
+   "status": "ok",
+   "truth": "A",
+   "note": "",
+   "outcome": "correct",
+   "coverage": {
+    "A": 0.86,
+    "B": 0.03,
+    "C": 0.03,
+    "D": 0.03
+   }
+  }
+ ]
+}

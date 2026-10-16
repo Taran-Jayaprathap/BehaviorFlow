@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 demo/heldout/scans/
 .DS_Store
+demo/real_test/overlays/
